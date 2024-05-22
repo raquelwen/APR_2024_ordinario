@@ -1,170 +1,275 @@
 <?xml version="1.0"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <positions>
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>2.70409369</timestamp>
+      <position>
+        <x>4.69578075</x>
+        <y>0.40073207</y>
+        <z>-10.3350115</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>2.70409369</timestamp>
+      <position>
+        <x>-12.1036453</x>
+        <y>0.539247632</y>
+        <z>-9.365159</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>2.70409369</timestamp>
+      <position>
+        <x>7.83987474</x>
+        <y>0.500732064</y>
+        <z>0.23636812</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>3.70383334</timestamp>
+      <position>
+        <x>4.087788</x>
+        <y>0.40073207</y>
+        <z>-8.63985348</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>3.70383334</timestamp>
+      <position>
+        <x>-11.304307</x>
+        <y>0.534065366</y>
+        <z>-6.92656</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>3.70383334</timestamp>
+      <position>
+        <x>9.130598</x>
+        <y>0.500732064</y>
+        <z>3.48873663</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>4.704037</timestamp>
+      <position>
+        <x>3.571864</x>
+        <y>0.40073207</y>
+        <z>-5.75820255</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>4.704037</timestamp>
+      <position>
+        <x>-10.2108316</x>
+        <y>0.5417363</y>
+        <z>-4.17216873</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>4.704037</timestamp>
+      <position>
+        <x>10.4177589</x>
+        <y>0.500732064</y>
+        <z>6.73747253</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>5.70365667</timestamp>
+      <position>
+        <x>3.23165917</x>
+        <y>0.40073207</y>
+        <z>-4.63165951</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>5.70365667</timestamp>
+      <position>
+        <x>-8.802883</x>
+        <y>0.6090654</y>
+        <z>-1.914222</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>5.70365667</timestamp>
+      <position>
+        <x>12.4852829</x>
+        <y>0.500732064</y>
+        <z>9.235406</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>6.70420361</timestamp>
+      <position>
+        <x>1.24097157</x>
+        <y>0.442264</y>
+        <z>-3.12388062</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>6.70420361</timestamp>
+      <position>
+        <x>-8.12891</x>
+        <y>0.6090654</y>
+        <z>-1.58483946</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>6.70420361</timestamp>
+      <position>
+        <x>11.0950136</x>
+        <y>0.500732064</y>
+        <z>7.75054073</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>7.70505238</timestamp>
+      <position>
+        <x>-0.38665247</x>
+        <y>0.5173987</y>
+        <z>-1.56508708</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>7.70505238</timestamp>
+      <position>
+        <x>-7.46345472</x>
+        <y>0.6090654</y>
+        <z>-1.23747778</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>7.70505238</timestamp>
+      <position>
+        <x>9.839121</x>
+        <y>0.500732064</y>
+        <z>4.593829</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>8.705402</timestamp>
+      <position>
+        <x>-0.9284997</x>
+        <y>0.5173987</y>
+        <z>-1.04615414</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>8.705402</timestamp>
+      <position>
+        <x>-6.79835367</x>
+        <y>0.6090654</y>
+        <z>-0.8903015</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>8.705402</timestamp>
+      <position>
+        <x>9.07752</x>
+        <y>0.500732064</y>
+        <z>1.17645347</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>9.705092</timestamp>
+      <position>
+        <x>-1.46998107</x>
+        <y>0.5173987</y>
+        <z>-0.5275721</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>9.705092</timestamp>
+      <position>
+        <x>-6.133702</x>
+        <y>0.6090654</y>
+        <z>-0.543359756</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>9.705092</timestamp>
+      <position>
+        <x>8.570412</x>
+        <y>0.500732064</y>
+        <z>-1.93517208</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>10.7049828</timestamp>
+      <position>
+        <x>-2.01159883</x>
+        <y>0.5173987</y>
+        <z>-0.008858703</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>10.7049828</timestamp>
+      <position>
+        <x>-5.468884</x>
+        <y>0.6090654</y>
+        <z>-0.1963304</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>10.7049828</timestamp>
+      <position>
+        <x>8.602538</x>
+        <y>0.500732064</y>
+        <z>-5.434312</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow</name>
+      <timestamp>11.70524</timestamp>
+      <position>
+        <x>-2.524378</x>
+        <y>0.5173987</y>
+        <z>0.486135721</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyFollow2</name>
+      <timestamp>11.70524</timestamp>
+      <position>
+        <x>-4.803836</x>
+        <y>0.6090654</y>
+        <z>0.150819272</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>EnemyPatrol</name>
+      <timestamp>11.70524</timestamp>
+      <position>
+        <x>8.712036</x>
+        <y>0.500732064</y>
+        <z>-8.740654</z>
+      </position>
+    </CharacterPosition>
   </positions>
 </Positions>

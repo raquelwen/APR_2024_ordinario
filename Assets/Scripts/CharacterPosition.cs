@@ -1,13 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 [System.Serializable]
 public class CharacterPosition
 {
-    private string name;
-    private float timestamp;
-    private Vector3 position;
+    public string name;
+    public float timestamp;
+    public Vector3 position;
 
     public CharacterPosition(string name, float timestamp, Vector3 position)
     {

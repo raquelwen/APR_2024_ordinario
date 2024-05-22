@@ -1,60 +1,95 @@
 <?xml version="1.0"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <positions>
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
-    <CharacterPosition />
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>2.70409369</timestamp>
+      <position>
+        <x>-3.00151539</x>
+        <y>0.4428235</y>
+        <z>-3.43421078</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>3.70383334</timestamp>
+      <position>
+        <x>-3.0525167</x>
+        <y>0.5173987</y>
+        <z>-1.21995568</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>4.704037</timestamp>
+      <position>
+        <x>-3.07266974</x>
+        <y>0.5173987</y>
+        <z>-0.3449953</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>5.70365667</timestamp>
+      <position>
+        <x>-3.09281039</x>
+        <y>0.5173987</y>
+        <z>0.52944237</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>6.70420361</timestamp>
+      <position>
+        <x>-3.1045208</x>
+        <y>0.5173987</y>
+        <z>1.03784466</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>7.70505238</timestamp>
+      <position>
+        <x>-3.1045208</x>
+        <y>0.5173987</y>
+        <z>1.03784466</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>8.705402</timestamp>
+      <position>
+        <x>-3.1045208</x>
+        <y>0.5173987</y>
+        <z>1.03784466</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>9.705092</timestamp>
+      <position>
+        <x>-3.1045208</x>
+        <y>0.5173987</y>
+        <z>1.03784466</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>10.7049828</timestamp>
+      <position>
+        <x>-3.1045208</x>
+        <y>0.5173987</y>
+        <z>1.03784466</z>
+      </position>
+    </CharacterPosition>
+    <CharacterPosition>
+      <name>Player</name>
+      <timestamp>11.70524</timestamp>
+      <position>
+        <x>-3.1045208</x>
+        <y>0.5173987</y>
+        <z>1.03784466</z>
+      </position>
+    </CharacterPosition>
   </positions>
 </Positions>
