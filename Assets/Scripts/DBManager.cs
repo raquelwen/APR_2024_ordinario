@@ -12,7 +12,7 @@ public class DBManager : MonoBehaviour
 {
     public static DBManager Instance { get; private set; }
     private string dbUri = "URI=file:mydb.sqlite";
-    private string SQL_COUNT_ELEMNTS = "SELECT count(*) FROM Posiciones;";
+    //private string SQL_COUNT_ELEMNTS = "SELECT count(*) FROM Posiciones;";
     private string SQL_CREATE_POSICIONES = "CREATE TABLE ...";
 
     private IDbConnection dbConnection;
